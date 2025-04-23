@@ -26,6 +26,12 @@
     <br>
 
   <div align="center">
+    <img 
+    width="754"
+    align="center"
+    alt="Streak"
+    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
+    />
     <img
     height="165"
     align="center"
@@ -48,12 +54,6 @@
     />
     <br>
     <br>
-    <img 
-    width="754"
-    align="center"
-    alt="Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
-    />
   </div>
 </details>
 
