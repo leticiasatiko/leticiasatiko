@@ -27,18 +27,22 @@
     <img height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=iosevka"/>
+    src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=iosevka"
+    />
     <img
     height=165
     align="center"
     alt="Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    />
     <br>
     <br>
     <img 
+    width="700"
     align="center"
-    alt="Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"/>
+    alt="Summary"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"
+    />
   </div>
 </details>
 
