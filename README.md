@@ -48,9 +48,9 @@
     <br>
     <br>
     <img 
-    width="750"
+    height="154"
     align="center"
-    alt="Summary"
+    alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
     />
   </div>
