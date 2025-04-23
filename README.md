@@ -43,6 +43,12 @@
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"
     />
+    <img 
+    width="750"
+    align="center"
+    alt="Summary"
+    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=tokyonight&hide_border=true&card_width=885"
+    />
   </div>
 </details>
 
