@@ -51,7 +51,7 @@
     width="750"
     align="center"
     alt="Summary"
-    src="https://git.io/streak-stats?user=leticiasatiko&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=leticiasatiko&theme=tokyonight"
     />
   </div>
 </details>
