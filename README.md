@@ -43,6 +43,8 @@
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"
     />
+    <br>
+    <br>
     <img 
     width="750"
     align="center"
