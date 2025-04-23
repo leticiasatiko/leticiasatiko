@@ -27,7 +27,7 @@
 
   <div align="center">
     <img 
-    height="250"
+    height="240"
     align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
@@ -35,7 +35,7 @@
     <br>
     <br>
     <img
-    height="155"
+    height="154"
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"
