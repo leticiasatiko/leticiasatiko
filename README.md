@@ -35,7 +35,7 @@
     <br>
     <br>
     <img
-    height="154"
+    height="155"
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"
