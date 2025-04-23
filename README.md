@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 
 <!--
 **leticiasatiko/leticiasatiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
