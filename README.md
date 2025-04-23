@@ -40,6 +40,7 @@
     <br>
     <br>
     <img
+    height="755"
     align="center"
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"
@@ -47,7 +48,6 @@
     <br>
     <br>
     <img 
-    height="154"
     align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
