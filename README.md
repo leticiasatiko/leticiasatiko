@@ -31,8 +31,14 @@
     <img
     height=165
     align="center"
-    alt="Top Language"
+    alt="Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"/>
+    <br>
+    <br>
+    <img 
+    align="center"
+    alt="Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"/>
   </div>
 </details>
 
