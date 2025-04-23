@@ -27,11 +27,13 @@
 
   <div align="center">
     <img
+    width="377"
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"
     />
     <img
+    width="377"
     align="center"
     alt="Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"
@@ -39,7 +41,7 @@
     <br>
     <br>
     <img
-    width="755"
+    width="754"
     align="center"
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"
@@ -47,7 +49,7 @@
     <br>
     <br>
     <img 
-    width="755"
+    width="754"
     align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
