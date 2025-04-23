@@ -51,7 +51,7 @@
     width="750"
     align="center"
     alt="Summary"
-    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=tokyonight&hide_border=true&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true&card_width=885"
     />
   </div>
 </details>
