@@ -37,15 +37,10 @@
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
   />
+    
   <br>
   <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
-  />
-  <br>
-  <br>
+  
   <img
     height=154
     align="center"
@@ -53,8 +48,10 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&hide_border=true&card_width=885"
   />
   </div>
-</detail>
+
+  
 ##
+</detail>
 <br><br>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=85c4ff&reversal=true&section=footer" width="100%" />
