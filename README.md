@@ -48,7 +48,6 @@
     <br>
     <br>
     <img 
-    height="200"
     width="755"
     align="center"
     alt="Streak"
