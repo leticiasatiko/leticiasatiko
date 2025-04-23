@@ -38,7 +38,7 @@
     <br>
     <br>
     <img 
-    width="700"
+    width="800"
     align="center"
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"
