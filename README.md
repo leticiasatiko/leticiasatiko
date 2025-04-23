@@ -23,6 +23,12 @@
     </summary>
     <br>
 
+  <div align="center">
+    <img height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=iosevka">
+  </div>
 </details>
 
 <br><br>
