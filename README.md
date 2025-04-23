@@ -49,10 +49,9 @@
     <br>
     <img 
     height="154"
-    width="900"
     align="center"
     alt="Streak"
-    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true&card_width=885"
     />
   </div>
 </details>
