@@ -26,13 +26,12 @@
     <br>
 
   <div align="center">
-    <img height=165
+    <img
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"
     />
     <img
-    height=165
     align="center"
     alt="Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"
