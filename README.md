@@ -15,4 +15,13 @@
 <img src="https://github.com/user-attachments/assets/dcd77115-6b63-4a71-990f-cf5009a13210" width="200" />
 </div>
 
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
+</detail>
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=85c4ff&reversal=true&section=footer" width="100%" />
