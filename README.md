@@ -39,8 +39,7 @@
     />
     <br>
     <br>
-    <img 
-    width="757"
+    <img
     align="center"
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"
