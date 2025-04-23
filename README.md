@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=85c4ff&reversal=true&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c0defd&reversal=true&section=header"/>
 
 <div align="center">
   <samp>
@@ -60,4 +60,4 @@
 
 <br><br>
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=85c4ff&reversal=true&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c0defd&reversal=true&section=footer"/>
