@@ -27,7 +27,7 @@
 
   <div align="center">
     <img 
-    height="240"
+    height="245"
     align="center"
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
