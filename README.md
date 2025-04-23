@@ -29,13 +29,13 @@
     <img height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=leticiasatiko&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=prussian&font=iosevka"
     />
     <img
     height=165
     align="center"
     alt="Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"
     />
     <br>
     <br>
@@ -43,7 +43,7 @@
     width="750"
     align="center"
     alt="Summary"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"
     />
     <br>
     <br>
@@ -51,7 +51,7 @@
     width="750"
     align="center"
     alt="Summary"
-    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=tokyonight&hide_border=true&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true&card_width=885"
     />
   </div>
 </details>
