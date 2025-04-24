@@ -19,6 +19,7 @@
 <br>
 
 ##
+
 <div align="center">
   <samp>
     <b>
@@ -35,6 +36,7 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
   
 </div>
+
 ##
 
 <br>
