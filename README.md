@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/b696c77c-c10c-4091-8f5e-8d4e01c34ab3"/>
 
-<div align="center">
+<div align="left">
   <samp>
    <b>
     Welcome!
