@@ -1,18 +1,13 @@
 <img width="100%" src="https://github.com/user-attachments/assets/b696c77c-c10c-4091-8f5e-8d4e01c34ab3"/>
 
-<div>
-<div>
- <p align="right">dir</p>
- <p align="left">esq</p>
-</div>
 <div align="center">
   <samp>
-    <b>
-      Welcome!
-      <br>
-      Hi, my name is Leticia!
-      <br>
-</div>
+   <b>
+    Welcome!
+   </b>
+   <br>
+    Hi, my name is Leticia!
+   <br>
 </div>
       
 <br><br>
