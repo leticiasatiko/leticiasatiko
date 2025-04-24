@@ -2,12 +2,8 @@
 
 <div align="left">
   <samp>
-   <b>
-    Welcome!
-   </b>
-   <br>
-    Hi, my name is Leticia!
-   <br>
+    # Welcome!
+    ### Hi, my name is Leticia!
 </div>
       
 <br><br>
