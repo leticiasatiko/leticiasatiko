@@ -40,8 +40,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiasatiko/)  
 </div>
 
-<br><br>
-
 ##
 
 <details align="center">
