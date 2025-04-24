@@ -1,9 +1,14 @@
 <img width="100%" src="https://github.com/user-attachments/assets/b696c77c-c10c-4091-8f5e-8d4e01c34ab3"/>
 
+<div align="center">
+  <samp>
+    <h2>Welcome!</h2>
+  </samp>
+</div> 
 <div align="left">
   <samp>
-    # Welcome!
-    ### Hi, my name is Leticia!
+    <h3>Hi, my name is Leticia!</h3>
+  </samp>
 </div>
       
 <br><br>
