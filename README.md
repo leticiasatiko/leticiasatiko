@@ -16,7 +16,7 @@
 
 <div align="left">
   <samp>
-    <img align="right" width="16%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>
+    <img align="right" width="20%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>
     <p> 🪪 Sou Leticia Satiko Takahashi</p>
     <p> 📖 Estudante de Análise e Desenvolvimento de Sistemas  |  Unicesumar - Maringá  |  5º semestre</p>
     <p> 🎂 Tenho 20 anos</p>
