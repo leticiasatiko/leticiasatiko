@@ -32,12 +32,23 @@
   <samp>
   <br><br>
 
-<a href="mailto:leticiasatiko@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail"></a>
-<a href="https://www.instagram.com/leticia.satiko/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram"></a>
-<a href="https://br.pinterest.com/lettuceen/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=Pinterest&logoColor=fff" alt="Pinterest"></a>
-<a href="https://wa.me/5544991476808" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp"></a>
-<a href="https://www.linkedin.com/in/leticiasatiko/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn"></a>
-</div>
+<p>
+  <a href="mailto:leticiasatiko@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/leticia.satiko/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" alt="Instagram">
+  </a>
+  <a href="https://br.pinterest.com/lettuceen/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=Pinterest&logoColor=fff" alt="Pinterest">
+  </a>
+  <a href="https://wa.me/5544991476808" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" alt="WhatsApp">
+  </a>
+  <a href="https://www.linkedin.com/in/leticiasatiko/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn">
+  </a>
+</p>
 
 ##
 
