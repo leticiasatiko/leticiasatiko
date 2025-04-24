@@ -1,31 +1,27 @@
 <img width="100%" src="https://github.com/user-attachments/assets/b696c77c-c10c-4091-8f5e-8d4e01c34ab3"/>
-
+<br>
 <div align="center">
-  <samp>
-    <h2>Welcome!</h2>
-  </samp>
-</div> 
-<div align="left">
-  <samp>
-    <h3>Hi, my name is Leticia!</h3>
-  </samp>
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&letterSpacing=0.001&duration=2000&pause=1000&color=00C9FFF3&center=true&width=1000&height=60&lines=Welcome!;I'm+Leticia+Takahashi;Systems+Analysis+and+Development+Student" alt="Typing SVG"/>
+  </h1>
+  
+<div>
+  
+</div>
+<div>
+<!--    <img align="right" width="10%" src="https://github.com/user-attachments/assets/7388c6a1-f857-4e0c-a079-1c1abca84e54"/> -->
 </div>
       
 <br><br>
-      
-<div align="center">
-<img src="https://github.com/user-attachments/assets/dcd77115-6b63-4a71-990f-cf5009a13210" width="200" />
-</div>
-<br>
-<br>
-<br>
+
+<br><br><br>
 
 ##
 
 <div align="center">
   <samp>
     <b>Social Media | Contact</b>
-  </samp>
+  <samp>
   <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiasatiko@gmail.com)
@@ -42,9 +38,7 @@
 <br>
 <details align="center">
     <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
+      <b>More Info</b>
     </summary>
     <br>
 
@@ -55,8 +49,7 @@
     alt="Streak"
     src="https://github-readme-streak-stats.herokuapp.com?user=leticiasatiko&theme=prussian&hide_border=true"
     />
-    <br>
-    <br>
+    <br><br>
     <img
     height="153"
     align="center"
@@ -69,15 +62,13 @@
     alt="Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=prussian"
     />
-    <br>
-    <br>
+    <br><br>
     <img
     align="center"
     alt="Summary"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leticiasatiko&theme=prussian"
     />
-    <br>
-    <br>
+    <br><br>
   </div>
 </details>
 
