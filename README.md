@@ -1,11 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38a0ff&reversal=true&section=header"/>
 
 <div>
-<div align="left">
-  teste esq
-</div>
-<div align="right">
-  teste dir
+<div>
+ <p align="right">dir</p>
+ <p align="left">esq</p>
 </div>
 <div align="center">
   <samp>
