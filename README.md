@@ -44,11 +44,11 @@
 <br>
 <br>
 <details align="center">
-  <h1>
+  ##
     <summary>
       <b>More Info</b>
     </summary>    
-  </h1>
+ ## 
     <br>
 
   <div align="center">
