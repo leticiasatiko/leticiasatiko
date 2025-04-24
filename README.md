@@ -1,5 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38a0ff&reversal=true&section=header"/>
 
+<div align="left">
+  teste esq
+</div>
 <div align="center">
   <samp>
     <b>
@@ -8,7 +11,9 @@
       Hi, my name is Leticia!
       <br>
 </div>
-      
+<div align="left">
+  teste dir
+</div>
 <br><br>
       
 <div align="center">
