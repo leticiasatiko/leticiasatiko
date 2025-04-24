@@ -22,19 +22,24 @@
 
 <div align="center">
   <samp>
-    <b>
-      Social Media:
-    </b>
+    <b>Social Media:</b>
   </samp>
-  <br>
-  <br>
+  <br><br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiasatiko@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leticia.satiko/)
-  [![Pinterest](https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=Pinterest&logoColor=fff)](https://br.pinterest.com/lettuceen/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5544991476808)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiasatiko/)
-  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 400px; margin: auto;">
+    <a href="mailto:leticiasatiko@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" />
+    </a>
+    <a href="https://www.instagram.com/leticia.satiko/">
+      <img src="https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff" />
+    </a>
+    <a href="https://br.pinterest.com/lettuceen/">
+      <img src="https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=pinterest&logoColor=fff" />
+    </a>
+    <a href="https://wa.me/...">
+      <img src="https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff" />
+    </a>
+  </div>
 </div>
 
 ##
