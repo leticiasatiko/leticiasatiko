@@ -47,7 +47,7 @@
 <details align="center">
     <summary>
       <samp>
-      <p>More Info</p>
+      <b>More Info</b>
       </samp>
     </summary>    
     <br>
