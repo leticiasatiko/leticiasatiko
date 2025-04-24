@@ -29,9 +29,11 @@
 ##
 
 <div align="center">
-  <samp>
-    <b>Social Media | Contact</b>
-  <samp>
+  <h1>
+    <samp>
+      <p>Social Media | Contact</p>
+    <samp>
+  </h1>
   <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiasatiko@gmail.com)
@@ -45,9 +47,11 @@
 <br>
 <br>
 <details align="center">
+  <h1>
     <summary>
       <b>More Info</b>
-    </summary>
+    </summary>    
+  </h1>
     <br>
 
   <div align="center">
