@@ -5,9 +5,11 @@
 <br>
 <div align="center">
 <div>
+  <h1>
   <samp>
     <strong>About me</strong>
-  </samp>
+  </samp>    
+  </h1>
 </div>
 
 <br><br>
