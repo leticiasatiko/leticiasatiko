@@ -1,15 +1,14 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=800&color=6C94B4&center=true&width=1000&lines=Welcome!;I'm+Leticia+Takahashi" alt="Typing SVG" />
-
 <img width="100%" src="https://github.com/user-attachments/assets/747f4a04-b737-402d-8a8b-e6bf065895c1"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=800&color=6C94B4&center=true&width=1000&lines=Welcome!;I'm+Leticia+Takahashi" alt="Typing SVG" />
+
+##
 <br>
 <div align="center">
 <div>
-  <h1>
   <samp>
     <strong>About me</strong>
-  </samp>    
-  </h1>
+  </samp>
 </div>
 
 <br><br>
@@ -26,12 +25,11 @@
 
 <br><br><br>
 
+##
 <div align="center">
-  <h1>
     <samp>
       <p>Social Media | Contact</p>
     <samp>
-  </h1>
   <br><br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:leticiasatiko@gmail.com)
@@ -41,14 +39,13 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiasatiko/)
   
 
-<br>
-<br>
+<br><br>
+
+##
 <details align="center">
-  ##
     <summary>
       <b>More Info</b>
     </summary>    
- ## 
     <br>
 
   <div align="center">
