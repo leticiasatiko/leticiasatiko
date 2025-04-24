@@ -4,6 +4,9 @@
 <div align="left">
   teste esq
 </div>
+<div align="right">
+  teste dir
+</div>
 <div align="center">
   <samp>
     <b>
@@ -11,9 +14,6 @@
       <br>
       Hi, my name is Leticia!
       <br>
-</div>
-<div align="right">
-  teste dir
 </div>
 </div>
       
