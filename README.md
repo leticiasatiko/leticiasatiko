@@ -3,17 +3,24 @@
 <br>
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&letterSpacing=0.001&duration=2000&pause=1000&color=00C9FFF3&center=true&width=1000&height=60&lines=Welcome!;I'm+Leticia+Takahashi;Systems+Analysis+and+Development+Student" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=800&color=6C94B4&center=true&width=1000&lines=Welcome!;I'm+Leticia+Takahashi" alt="Typing SVG" />
   </h1>
   
 <div>
-  
+  <samp>
+    <strong>About me</strong>
+  </samp>
 </div>
-<div>
-<!--    <img align="right" width="10%" src="https://github.com/user-attachments/assets/7388c6a1-f857-4e0c-a079-1c1abca84e54"/> -->
-</div>
-      
 <br><br>
+<div align="left">
+  <samp>
+    <img align="right" width="15%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>
+    <p> 🪪 Sou Leticia Satiko Takahashi</p>
+    <p> 📖 Estudante de Análise e Desenvolvimento de Sistemas  |  Unicesumar - Maringá  |  5º semestre</p>
+    <p> 🎂 Tenho 20 anos</p>
+    <p> 💻 ... </p>    
+  </samp>
+</div>
 
 <br><br><br>
 
