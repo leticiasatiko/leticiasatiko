@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/user-attachments/assets/747f4a04-b737-402d-8a8b-e6bf065895c1"/>
 
-<br>
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&letterSpacing=0.001&duration=3000&pause=800&color=6C94B4&center=true&width=1500&height=100&lines=Welcome!;I'm+Let%C3%ADcia+Takahashi" alt="Typing SVG"/>
 
