@@ -12,7 +12,7 @@
       Hi, my name is Leticia!
       <br>
 </div>
-<div align="left">
+<div align="right">
   teste dir
 </div>
 </div>
