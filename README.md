@@ -33,7 +33,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/leticia.satiko/)
   [![Pinterest](https://img.shields.io/badge/Pinterest-2e3440?style=for-the-badge&logo=Pinterest&logoColor=fff)](https://br.pinterest.com/lettuceen/)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5544991476808)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=Linkedin&logoColor=fff)](https://www.linkedin.com/in/leticiasatiko/)
   
 </div>
 
