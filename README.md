@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38a0ff&reversal=true&section=header"/>
 
+<div>
 <div align="left">
   teste esq
 </div>
@@ -14,6 +15,8 @@
 <div align="left">
   teste dir
 </div>
+</div>
+      
 <br><br>
       
 <div align="center">
