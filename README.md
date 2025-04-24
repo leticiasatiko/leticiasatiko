@@ -22,7 +22,7 @@
 
 <div align="center">
   <samp>
-    <b>Social Media:</b>
+    <b>Social Media | Contact</b>
   </samp>
   <br><br>
 
