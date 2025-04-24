@@ -46,7 +46,9 @@
 
 <details align="center">
     <summary>
-      <b>More Info</b>
+      <samp>
+      <p>More Info</p>
+      </samp>
     </summary>    
     <br>
 
