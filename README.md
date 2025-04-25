@@ -25,12 +25,6 @@
 </div>
 
 ##
-
-<div align="center">
-    <samp>
-      <strong>Social Media | Contact</strong>
-    <samp>
-  <br><br>
       
 <div align="center">
     <samp>
