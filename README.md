@@ -28,7 +28,7 @@
 
 <div align="center">
     <samp>
-      <p>Social Media | Contact</p>
+      <strong>Social Media | Contact</strong>
     <samp>
   <br><br>
 
