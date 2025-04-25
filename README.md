@@ -25,7 +25,16 @@
 </div>
 
 ##
-      
+
+<div align="center">
+    <samp>
+      <strong>Languages | Tools</strong>
+    </samp>
+  <br><br>
+</div>
+
+##
+
 <div align="center">
     <samp>
       <strong>Social Media | Contact</strong>
