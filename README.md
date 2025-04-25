@@ -12,7 +12,7 @@
   </samp>
 </div>
 <br>
-  <img align="left" width="25%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>  
+<img align="right" width="25%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>  
 <br>
 
 <div align="left">
