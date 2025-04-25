@@ -26,7 +26,7 @@
 
 ##
       
-<div align="center">
+<div align="left">
     <samp>
       <strong>Social Media | Contact</strong>
     </samp>
