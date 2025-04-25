@@ -11,7 +11,7 @@
     <strong>About me</strong>
   </samp>
 </div>
-  <img align="right" width="20%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>  
+  <img align="left" width="20%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>  
 <br>
 <br>
 
