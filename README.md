@@ -64,6 +64,8 @@
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
 <br>
 </div>
+<br>
+<img align="center" width="20%" src="https://github.com/user-attachments/assets/08690503-6e6b-4ea7-abbf-76bf2a9aa9d7"/>
 
 ##
 
