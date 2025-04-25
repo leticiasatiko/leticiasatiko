@@ -11,12 +11,12 @@
     <strong>About me</strong>
   </samp>
 </div>
-
-<br><br>
+  <img align="right" width="20%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>  
+<br>
+<br>
 
 <div align="left">
   <samp>
-    <img align="right" width="20%" src="https://github.com/user-attachments/assets/a552966d-6094-4926-a88e-6ba3136a15a6"/>
     <p> 🪪 Sou Leticia Satiko Takahashi</p>
     <p> 📖 Estudante de Análise e Desenvolvimento de Sistemas  |  Unicesumar - Maringá  |  5º semestre</p>
     <p> 🎂 Tenho 20 anos</p>
@@ -31,7 +31,6 @@
       <samp>
         <strong>Languages</strong>
       </samp>
-      <img align="left" width="15%" src="https://github.com/user-attachments/assets/8f7e7969-2b53-4844-a887-de64f4e30fe1"/>
     <br><br>
   </div>
 
@@ -48,7 +47,6 @@
       <samp>
         <strong>Tools | Technologies</strong>
       </samp>
-      <img align="right" width="8%" src="https://github.com/user-attachments/assets/1ae88361-0bda-47f0-86e6-d7f92e47a0df"/>
   <br><br>
   </div>
   <img align="center" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
