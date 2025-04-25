@@ -86,7 +86,7 @@
   [![Spotify](https://img.shields.io/badge/Spotify-2e3440?style=for-the-badge&logo=spotify&logoColor=fff)](https://open.spotify.com/user/315eom2e6mxptlod56nx5gpjfpyy)
 </div>
 
-<img height="140" align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=315eom2e6mxptlod56nx5gpjfpyy&count=1"/>
+<img height="90" align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=315eom2e6mxptlod56nx5gpjfpyy&count=1"/>
 </div>
 
 ##
