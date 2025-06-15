@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38a0ff&reversal=true&section=header"/>
 # Olá, eu sou a Leticia Satiko Takahashi! 👩🏻‍💻
 
 - 🎓 20 anos | Estudante de Análise e Desenvolvimento de Sistemas
@@ -21,3 +22,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasatiko&layout=compact&theme=tokyonight" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=38a0ff&reversal=true&section=footer"/>
