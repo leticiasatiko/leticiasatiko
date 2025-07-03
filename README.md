@@ -3,7 +3,6 @@
 # Olá, eu sou a Leticia Satiko Takahashi! 👩🏻‍💻
 
 - 🎓 20 anos | Estudante de Análise e Desenvolvimento de Sistemas
-- 💡 Apaixonada por tecnologia, inovação e por aprender coisas novas todos os dias
 
 ## 💻 Tecnologias e Ferramentas
 
